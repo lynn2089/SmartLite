@@ -5,9 +5,9 @@ Please install torch and torchvision by following the instructions at: http://py
 
 To run resnet18 for cifar10 dataset use: python main_binary.py --model resnet_binary --save resnet18_binary --dataset cifar10
 
-bitwise_processing.py includes the example of bitwise processing in DBMS.
-
 ------
+
+**bitwise_processing.py** includes the example of bitwise processing in DBMS.
 
 **data_processing_in_db.py** is used to process the data from devices.
 
