@@ -9,17 +9,17 @@ bitwise_processing.py includes the example of bitwise processing in DBMS.
 
 data_processing_in_db.py is used to process the data from devices.
 
-im2col.py is used to flatten the tensor data.
+**im2col.py** is used to flatten the tensor data.
 
-Many test_x.py are some experiments used to measure the performance of DBMS.
+Many **test_x.py** are some experiments used to measure the performance of DBMS.
 
-torch_modelload.py is the example of multi-model running on PyTorch.
+**torch_modelload.py** is the example of multi-model running on PyTorch.
 
-Many main_x.py are the processing of quantized model generatoring.
+Many **main_x.py** are the processing of quantized model generatoring.
 
-/data/ includes the dataset.
+**/data/** includes the dataset.
 
-/results/ is used to store the quantized models.
+**/results/** is used to store the quantized models.
 
 
 
