@@ -7,7 +7,9 @@ To run resnet18 for cifar10 dataset use: python main_binary.py --model resnet_bi
 
 bitwise_processing.py includes the example of bitwise processing in DBMS.
 
-data_processing_in_db.py is used to process the data from devices.
+------
+
+**data_processing_in_db.py** is used to process the data from devices.
 
 **im2col.py** is used to flatten the tensor data.
 
