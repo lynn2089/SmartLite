@@ -1,0 +1,18 @@
+<functions>
+    <function>
+        <type>executable</type>
+        <name>model_processing</name>
+        <return_type>UInt8</return_type>
+        <return_name>result_name</return_name>
+        <argument>
+            <type>string</type>
+            <name>argument_1</name>
+        </argument>
+        <argument>
+            <type>string</type>
+            <name>argument_2</name>
+        </argument>
+        <format>JSONEachRow</format>
+        <command>model_alexnet.py</command>
+    </function>
+</functions>

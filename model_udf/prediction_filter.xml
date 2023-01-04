@@ -1,0 +1,22 @@
+<functions>
+    <function>
+        <type>executable</type>
+        <name>prediction_filter</name>
+        <return_type>UInt8</return_type>
+        <return_name>result_name</return_name>
+        <argument>
+            <type>UInt8,UInt16,UInt32,UInt64,UInt128,UInt256</type>
+            <name>argument_1</name>
+        </argument>
+        <argument>
+            <type>UInt8,UInt16,UInt32,UInt64,UInt128,UInt256</type>
+            <name>argument_2</name>
+        </argument>
+        <argument>
+            <type>UInt8,UInt16,UInt32,UInt64,UInt128,UInt256</type>
+            <name>argument_3</name>
+        </argument>
+        <format>JSONEachRow</format>
+        <command>prediction_filter.py</command>
+    </function>
+</functions>
