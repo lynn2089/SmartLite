@@ -22,6 +22,8 @@ struct LookupImpl
     template <typename Result = ResultType>
     static inline Result apply(A a, B b)
     {
+        /// The results of bitcount(xor(a,b)) need to be pre-stored into the lookuptable.
+        /// Bitcount(a) obeys the similar rule.
         return lookuptable[static_cast<Result>(a) , static_cast<Result>(b)];
     }
 
