@@ -25,9 +25,9 @@ Many **main_x.py** are the processing of quantized model generatoring.
 
 **./exp-load** records the implementation of multi-model serving and scheduling, and tests VGG and AlexNet.
 
-## Else
+## Test
 
-Many **test_x.py** are the experiments used to measure the performance of DBMS.
+Many **test_x.py** are the experiments used to measure the performance of SmartLite.
 
 
 
