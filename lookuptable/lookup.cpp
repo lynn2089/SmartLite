@@ -24,7 +24,7 @@ struct LookupImpl
     {
         /// The results of bitcount(xor(a,b)) need to be pre-stored into the lookuptable.
         /// Bitcount(a) obeys the similar rule.
-        return lookuptable[static_cast<Result>(a) , static_cast<Result>(b)];
+        return lookuptable[static_cast<Result>(a), static_cast<Result>(b)];
     }
 
 #if USE_EMBEDDED_COMPILER
