@@ -15,8 +15,6 @@ Many **main_x.py** are the processing of quantized model generatoring.
 
 **/data/** includes the dataset.
 
-**/results/** is used to store the quantized models.
-
 ## Pruned neural networks
 
 **main_binary.py** includes the number of parameter flips used for model pruning.
