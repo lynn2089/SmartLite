@@ -6,7 +6,7 @@ SmartLite is a lightweight DBMS that stores the parameters and structural inform
 According to the Alibaba's regulations, the papers published in any conference or journal need to meet the legal and security requirements and pass the risk assessment, which usually will take more than two months. To demonstrate sufficient materials, we provide the core codes related to the SmartLite and omit the unimportant and tedious system-level codes.
 
 ## Architecture
-<img src="./arch.pdf" width="60%" alt="architecture of SmartLite"/>
+<img src="./arch.png" width="60%" alt="architecture of SmartLite"/>
 
 ## Core Components
 
