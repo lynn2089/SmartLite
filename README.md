@@ -2,8 +2,8 @@
 
 SmartLite is a lightweight DBMS that stores the parameters and structural information of neural networks as database tables and implements neural network operators inside the DBMS engine. SmartLite quantizes model parameters as binarized values, applies neural pruning techniques to compress the models, and transforms tensor manipulations into value lookup operations of the DBMS to reduce computation overhead. 
 
-**Notable:**
-According to the Alibaba's regulations, the papers published in any conference or journal need to meet the legal and security requirements and pass the risk assessment, which usually will take more than two months. To demonstrate sufficient materials, we provide the core codes related to the SmartLite and omit the unimportant and tedious system-level codes.
+<!--**Notable:**-->
+<!--According to the Alibaba's regulations, the papers published in any conference or journal need to meet the legal and security requirements and pass the risk assessment, which usually will take more than two months. To demonstrate sufficient materials, we provide the core codes related to the SmartLite and omit the unimportant and tedious system-level codes.-->
 
 ## Architecture
 <img src="./arch.png" width="60%" alt="architecture of SmartLite"/>
